@@ -1,0 +1,38 @@
+{
+  "name": "prestalud_backend",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Telematic prototype for use control and inventory of the industrial laboratory's resources of the Universidad Distrital Francisco José de Caldas Facultad Tecnológica.",
+  "keywords": [
+    "udistrital",
+    "prestamo",
+    "laboratorio"
+  ],
+  "author": "Universidad Distrital",
+  "license": "MIT",
+  "main": "app.js",
+  "dependencies": {
+    "base-64": "0.1.0",
+    "bcrypt": "^1.0.2",
+    "body-parser": "1.16.1",
+    "cors": "2.8.1",
+    "express": "4.14.1",
+    "firebase": "3.6.10",
+    "jwt-simple": "^0.5.1",
+    "method-override": "2.3.7",
+    "moment": "^2.17.1",
+    "mongoose": "^4.9.7",
+    "morgan": "1.8.1",
+    "node-rest-client": "2.5.0",
+    "swagger-express-mw": "0.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0",
+    "should": "^7.1.0",
+    "supertest": "^1.0.0"
+  },
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "swagger project test"
+  }
+}

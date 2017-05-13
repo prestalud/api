@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "prestalud",
+  "private_key_id": "5ff0a60a16e1ed45d14e384bc13776792c627e1c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDDuYyzcT7kGM7l\nqpB+HtnLiP2tTFuExF8QbZ4dau7WxgLVPoIYOfQdArINNJjN7oM3lS7Rix8rU9o7\nAIzT4s9ZA2FobdX50XvmgZFHGYn7zYzdZXfmpthlqliyrQMcIxGnbYn7ez2sxIfT\nGWCjZzPIQndXAT36VjaJvESi5X4OpZe4q6KbuTvLZG72mNUlcGxkts9mhkwCTO4O\ntQQfNANz+b+qh3As6hhp4as1SDsZIx8y67c6pz8b4KXVdqOrM+19usFz2LKvLhD/\nn8g6JuxTWsKQgv9Q6grTCX4RPkNroovRaocJ0a2RtRgBPjZ1+ojzDqAsmY8xLneO\nvQoijfIxAgMBAAECggEAOagtZKcVqcgNGub2DdE0w5qlcCmwRBo9Du/bxjq8BRTr\nvLnfRRe9a9ZhcTZvVSrQCM2vrxbWpcLb5MmysrB7+HLgfQzuHduyLiM5EsLZPQ4+\nUvITMiUwVjKqUmhZJC7IgpPoM+cIMh7rDCrLpxc9z96UnVLGWTqQcl69sWb9jX6B\n58jHXX2I5eJ6dQ3BA79HitiPBNLIJVvxklQRl+OzUNN6aQOHZvkiir3/h1LN94mz\nNtKiV44VIrLfyxhFjvsYSIvDoedlBfafkx8hdimKZOAsuRheXf410IPSAyvCZ957\niHEcjSUOD+7dVpoINkfzMei/mklfcRlhkkRfUMexaQKBgQD4vBHKudD1UlzvyQ4h\n+NK9R7mVSJjZ/HGf36xUzZRvqy6bhMxezxli3HZ/AaEPzSgchLgVJgHWnERHYf5G\n2eYyPtiKNPbr8vxVLvHByPQmQQE4AbQSbRXFTYN5IzcVCxaF7c7LFYuNkvJ9ph1y\nUQCx+ivFVoevxwvJ8fsqKT1wnwKBgQDJcRhowk9NIxXdwVzmBS0rA6JsaFHJAedp\nrn66PujPa+HupkZz6Liinlug0gBCk7jisKuK0eOWyuAKx7KXpkCqrNzNpXmlP6Ih\n8rInk0pDZp+jvDkX0kqpGHNXjcM3Ij02dkG84QaDbtlXKSVKVTAHDif5G84d+DhW\nGaRWPSqbLwKBgQCuRic5ISQ1HnYbU4VhbBNLp1tyKyFdajC6UV9PM5MTAp9vO4Zt\nzzD8QXeM2Tld9uJpyNupha24DlkQoqokPju5bKsPerie7Oq7TF765a+ateUCtr7S\nQjgEu6CoWXIYfmJTiCFhzUCv+wuH2cG7/OE90gilBVGgaRfrcG4IRkjUBQKBgQC6\nJ/26sfa+/jFy4QKMvzPikFVFgZIzA8NrcopCa2iSZsw/0wFAlEwsW9OpZug+nm05\ncLLWcuizrYAl9i4g3s7b6yuSD92+zHN0k+f3krIKX4gftA2+6eN9KM9Olf9VsBqJ\nffd6KSnvxDytw6RmcRsVKgvetcdhAsZtKv0nhRcemQKBgQDUn0Hi9/5giEFU5I/N\na9jRXZBT6pdos+h9oVbJHn1ImTbNGJ8K4a7n8d4EC6vEPdIpWHy9kH/gkH04+9O9\nayvewdEr305Ii026CDpW7ofuXvyeerpOXQJvKgKJ/jScz7jsGjVaCzOwcogOfujP\ng+TLblmBlqCADQbQIXKRwSPulw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "prestalud-api@prestalud.iam.gserviceaccount.com",
+  "client_id": "108518657887415370887",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prestalud-api%40prestalud.iam.gserviceaccount.com"
+}
